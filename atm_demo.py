@@ -1,7 +1,7 @@
 '''
 Author:Amal K Philip
 Date:28-10-2024
-Description:menu-driven Python program that allows users to convert temperatures
+Description:program that simulates a simple bank ATM system
 '''
 balance_amount=10000
 while True:
