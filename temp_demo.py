@@ -1,7 +1,7 @@
 '''
 Author:Amal K Philip
 Date:28-10-2024
-Description:program that simulates a simple bank ATM system
+Description:menu-driven Python program that allows users to convert temperatures
 '''
 while True:
     print("\t1.Celsius to Fahrenheit")
